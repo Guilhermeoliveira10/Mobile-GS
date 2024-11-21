@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "446064673448",
+    "project_id": "apprural-gs",
+    "storage_bucket": "apprural-gs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446064673448:android:533463da8b4e3288b5789d",
+        "android_client_info": {
+          "package_name": "com.example.apprural_gs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0JcFIMvOX4aTylL07rHXob5f0pShD4oM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
